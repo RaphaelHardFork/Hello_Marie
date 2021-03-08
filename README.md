@@ -1,1 +1,1 @@
-# Exemple du cours
+# Importation de l'exemple du cours
